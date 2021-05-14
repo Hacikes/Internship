@@ -16,7 +16,7 @@ table {
 }
 
 th {
-  padding: 10px; /*Отступ*/
+  padding: 10px; /*Устанавливает отступ*/
   border: 1px solid black;/*Устанавливает толщину, стиль и цвет вокруг элемента*/
 }
 
@@ -65,5 +65,8 @@ hr {
   text-align: center;
 }
 
-
+div {
+  height: 100vh;
+  overflow: auto;
+}
 
