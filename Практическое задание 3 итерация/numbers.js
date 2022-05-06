@@ -26,7 +26,8 @@ console.log(+(0.4 + 0.6).toFixed(3)) //         \
 //                                               |тоже самое что и выше, но получаем число parseFloat или + получаем int
 console.log(parseFloat(0.4 + 0.6).toFixed(3))// /
 
-
+//BigInt
+console.log(typeof 24234234234234234234n)
 
 
 
